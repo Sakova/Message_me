@@ -1,24 +1,13 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Message me
+Message me is an application in which you can chat with other people in a general chat, for this you just need to register and you can immediately use the application.
+## Features
+- PostgreSQL (production)
+- SQLite (development / test)
+- Rails 5
+- Semantic UI
+- ActionCable
+- Redis
+- WebSocket
+- etc
+## How to use
+You can try our application by following the link: [Message me](https://message-me-sakova.herokuapp.com/login)
